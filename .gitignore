@@ -1,5 +1,5 @@
 # Ignore large model files
-rf_model.pkl
+.pkl
 
 # Ignore Python cache and virtual environments
 __pycache__/
